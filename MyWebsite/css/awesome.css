@@ -1,0 +1,29 @@
+/* font awesome*/
+.container { 
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin: 10px;
+    
+}
+
+.bar {
+    width: 50px;
+    height: 2px;
+    background-color: white;
+    margin: 10px 10px;
+}
+/* sec star */
+.container_ { 
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin: 10px;    
+}
+
+.bar_ {
+    width: 50px;
+    height: 2px;
+    background-color: black;
+    margin: 10px 10px;
+}

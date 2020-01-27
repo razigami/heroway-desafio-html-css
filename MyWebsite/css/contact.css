@@ -1,0 +1,34 @@
+.contact {
+    background-color: #F5F5F5;
+    width: 100%;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    align-content: center;
+}
+.form {
+    background-color: #F5F5F5;
+    padding-top: 15px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+}
+.ipt {
+    margin-top: 15px;
+    width: 200px;
+    border: 0;
+    border-bottom: 2px solid #ccc;
+}
+.btn {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    color: white;
+    background-color: #D40A44;
+    border-radius: 5px;
+    width: 100px;
+    align-self: center;
+}

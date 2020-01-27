@@ -1,0 +1,80 @@
+* {
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+}
+.menu a{
+  color:rgb(252,27,82);
+}
+.menu {
+  position: fixed;
+  width: 100%;
+  height: 60px;
+  background-color:rgb(20,31,42);
+  opacity: 5;
+}
+
+.links {
+  float: right;
+  font-size: 22px;
+  line-height: 60px;
+}
+
+.links > a {
+  padding: 5px 20px;
+}
+
+.container {
+  position: relative;
+  width: 100%;
+  top: 80px;
+  text-align: center;
+  color: rgb(20,31,42);
+}
+.heroes img{
+  vertical-align: middle;
+  height: 350px;
+  width: 250px;
+}
+.heroes{
+  width: 100%;
+  position: relative;
+  top: 100px;
+  text-align: center;
+}
+.divform{
+  width: 49%;
+  font-size: 22px;
+  line-height: 40px;
+  background-color: sandybrown;
+}
+.form{
+  position: absolute;
+  width: 100%;
+  float: none;
+  right: 5px;
+}
+.footer{
+  position: fixed;
+  margin-bottom: 0px;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background-color: rgb(20,31,42); 
+  padding: 10px; 
+  color: rgb(252,27,82);
+  font-size: .81em;
+}
+footer div:first-child{
+  margin-bottom: 5px;
+}
+footer .glyphicon{
+  margin-right: 5px;
+}
+footer a:link, footer a:visited, footer a:hover, footer a:active{
+  color: rgb(252,27,82);
+}
+footer .contacts{
+  text-align: left;
+}
